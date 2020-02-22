@@ -3,7 +3,7 @@
 }
 .cr-bg{
     background-color:  #FEEAE9;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .carousel-item{
@@ -20,4 +20,53 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+
+.cat1{
+    background-color: orangered;
+}
+
+.cat2{
+    background-color: palevioletred;
+}
+
+.cat3{
+    background-color: blue;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: darkgray;
+}
+
+footer{
+    text-align: center;
+    color: gray;
 }
